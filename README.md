@@ -4,6 +4,8 @@
 
 This project involves building a support agent chatbot designed to answer "how-to" questions related to four Customer Data Platforms (CDPs): Segment, mParticle, Lytics, and Zeotap. The chatbot extracts relevant information from the official documentation of these platforms to guide users on specific tasks or outcomes. It also includes additional features like handling variations in questions, answering cross-CDP comparisons, and providing advanced guidance.
 
+Live Demo: https://zeotap-cdp-chatbot.netlify.app/
+
 ## Installation and Setup Instructions
 
 1. **Clone the Repository:**
